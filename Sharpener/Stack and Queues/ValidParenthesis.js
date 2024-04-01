@@ -10,5 +10,5 @@ var isValid = function (s) {
             sta.pop()
     }
 
-    return sta.length == 0
+    // return sta.length == 0
 };
