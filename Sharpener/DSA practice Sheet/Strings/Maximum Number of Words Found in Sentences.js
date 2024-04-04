@@ -8,4 +8,3 @@ var mostWordsFound = function(sentences) {
     }
     return res;
 };
-// 
