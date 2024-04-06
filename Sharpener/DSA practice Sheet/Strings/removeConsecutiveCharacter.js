@@ -1,4 +1,4 @@
-removeConsecutiveCharacter(s){
+function removeConsecutiveCharacter(s){
     //code here
     
     let res='';
