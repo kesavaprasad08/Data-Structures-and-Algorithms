@@ -1,6 +1,5 @@
 binSort(A, N)
     {
-        //your code here
         let one = 0;
         for(let i=0;i<N;i++){
             if(A[i]==0){
